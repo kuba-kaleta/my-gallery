@@ -1,0 +1,25 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  18.03.2023 07:30:03 ::1 GET /
+ HTTP  18.03.2023 07:30:03 ::1 Returned 200 in 15 ms
+ HTTP  18.03.2023 07:30:44 ::1 GET /
+ HTTP  18.03.2023 07:30:44 ::1 Returned 200 in 1 ms
+ HTTP  18.03.2023 07:30:45 127.0.0.1 GET /assets/index-b9365240.css
+ HTTP  18.03.2023 07:30:45 ::1 GET /assets/index-e85a4d55.js
+ HTTP  18.03.2023 07:30:45 127.0.0.1 Returned 200 in 3 ms
+ HTTP  18.03.2023 07:30:45 ::1 Returned 200 in 4 ms
+ HTTP  18.03.2023 07:30:45 127.0.0.1 GET /assets/logo-277e0e97.svg
+ HTTP  18.03.2023 07:30:45 127.0.0.1 Returned 200 in 1 ms
+ HTTP  18.03.2023 07:30:45 ::1 GET /favicon.ico
+ HTTP  18.03.2023 07:30:45 ::1 Returned 200 in 2 ms
+ HTTP  18.03.2023 07:32:38 127.0.0.1 GET /
+ HTTP  18.03.2023 07:32:38 127.0.0.1 Returned 200 in 1 ms
+ HTTP  18.03.2023 07:33:06 ::1 GET /
+ HTTP  18.03.2023 07:33:06 ::1 Returned 200 in 1 ms
+ HTTP  18.03.2023 07:33:06 127.0.0.1 GET /assets/index-88b650a1.css
+ HTTP  18.03.2023 07:33:06 ::1 GET /assets/index-7bb14fe8.js
+ HTTP  18.03.2023 07:33:06 127.0.0.1 Returned 200 in 2 ms
+ HTTP  18.03.2023 07:33:06 ::1 Returned 200 in 3 ms
+ HTTP  18.03.2023 07:33:11 127.0.0.1 GET /assets/AboutView-80505160.js
+ HTTP  18.03.2023 07:33:11 ::1 GET /assets/AboutView-4d995ba2.css
+ HTTP  18.03.2023 07:33:11 127.0.0.1 Returned 200 in 2 ms
+ HTTP  18.03.2023 07:33:11 ::1 Returned 200 in 2 ms
