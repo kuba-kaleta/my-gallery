@@ -10,7 +10,9 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "glightbox": "^3.2.0",
     "vue": "^3.2.47",
+    "vue-easy-lightbox": "^1.14.0",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
