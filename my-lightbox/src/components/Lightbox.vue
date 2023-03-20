@@ -2,50 +2,41 @@
  
   <div>
     <ul >
+      <li style="list-style-type: none;">
+        <a href="https://kaleta.toadres.pl/assets/2021_02_12_11h41_4.93MB-8530b62f.jpg" class="glightbox">
+          
+          <img style="height: 200px;" src="@/assets/img/2021_02_12_11h41_4.93MB.jpg" alt="image" />
+        
+        </a>
+      </li>
+
+      <li style="list-style-type: none;">
+        <a href="https://kaleta.toadres.pl/assets/2021_02_12_16h50_2.04MB-d4714a20.jpg" class="glightbox">
+          
+          <img style="height: 200px;" src="@/assets/img/2021_02_12_16h50_2.04MB.jpg" alt="image" />
+  
+        </a>
+      </li>
+
+      <li style="list-style-type: none;">
+        <a href="https://kaleta.toadres.pl/assets/2021_02_13_15h25_3.95MB-97db6230.jpg" class="glightbox">
+          
+          <img style="height: 200px;" src="@/assets/img/2021_02_13_15h25_3.95MB.jpg" alt="image" />
+        
+        </a>
+      </li>
+
+      <li style="list-style-type: none;">
+        <a href="https://kaleta.toadres.pl/assets/2021_02_14_16h33_2.33MB-a1613de8.jpg" class="glightbox">
+          
+          <img style="height: 200px;" src="@/assets/img/2021_02_14_16h33_2.33MB.jpg" alt="image" />
+        
+        </a>
+      </li>
+    </ul>
+  </div>
       
-       
-          <li style="float: left; margin: 5px;">
-       
-            <a href="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img2.jpg" class="glightbox">
-              
-              <img style="height: 105px;" src="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img2.jpg" alt="image" />
-           
-            </a>
-            
-          
-            </li>
-  
-            
-          
-  
-            
-            <li style="float: left; margin: 5px;">
-       
-            <a href="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img1.jpg" class="glightbox">
-             
-              <img style="height: 105px;" src="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img1.jpg" alt="image" />
-           
-            
-            </a>
-            
-          
-            </li>
-  
-               
-            <li style="float: left; margin: 5px;">
-       
-            <a href="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img3.jpg" class="glightbox">
-             
-              <img style="height: 105px;" src="https://therichpost.com/wp-content/uploads/2021/05/bootstrap5-carousel-slider-img3.jpg" alt="image" />
-           
-            </a>
-         
-          
-            </li>
-      </ul>
-      </div>
-      
-  </template>
+</template>
   
   <script>
   import  "glightbox/dist/css/glightbox.css";
